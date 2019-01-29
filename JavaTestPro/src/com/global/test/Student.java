@@ -7,7 +7,7 @@ public class Student {
 
 		
 		System.out.println("Add and Commit With Push");
-		
+		System.out.println("New Line Added !!!");
 	}
 
 }
